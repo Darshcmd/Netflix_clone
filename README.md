@@ -1,4 +1,4 @@
-# Netflix_clone_DevTown
+# Netflix_clone
 This is a basic Netflix Clone I built as part of a 5-day bootcamp organized by DevTown. 
 The goal of the bootcamp was to learn and build a frontend project using HTML, CSS, and JavaScript by replicating some key features of Netflix.
 
